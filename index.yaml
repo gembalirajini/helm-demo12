@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  rajini:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-10-30T11:11:23.086458381Z"
+    description: A Helm chart for Kubernetes
+    digest: a1cbfca1a94000aed0868b89c8abf260da7e99f11d2c644abfde60ea955822d5
+    name: rajini
+    type: application
+    urls:
+    - rajini-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-10-30T11:11:23.08490799Z"
